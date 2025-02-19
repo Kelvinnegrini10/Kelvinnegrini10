@@ -1,6 +1,6 @@
-<center>
+<div style="text-align: right; padding-right: 50px;">
   <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Ilustração de um computador">
-</center>
+</div>
 
 ## 🌟 Apresentação
 
