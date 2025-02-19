@@ -1,4 +1,4 @@
-<div style="text-align: right; padding-right: 50px;">
+<div style="text-align: right; padding-right: 100px;">
   <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Ilustração de um computador">
 </div>
 
